@@ -1,0 +1,7 @@
+{
+  "errorCodes": {
+    "TS-9999": {
+      "displayString": "This is a test code to demonstrate the structure of this json file."
+    }
+  }
+}
